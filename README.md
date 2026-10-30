@@ -1,4 +1,4 @@
-📐 PROJETO DE MATEMÁTICA
+# 📐 PROJETO DE MATEMÁTICA
 MATEMÁTICA PARA A INCLUSÃO
 
 Site educativo e interativo — Guia de instalação e personalização
@@ -16,7 +16,7 @@ Você pode adaptar o conteúdo de acordo com a identidade da equipe e as necessi
 Integrantes e orientador: no arquivo index.html, substitua [Nome dos integrantes] e [Nome do orientador] pelos nomes correspondentes.
 Galeria de fotos: os três quadros disponíveis são espaços reservados. Para inserir fotos reais, substitua cada elemento div.gallery-placeholder por uma imagem, por exemplo:
 
-<img src="assets/foto1.jpg" alt="Descrição da foto">
+
 
 Salve as imagens na pasta assets e, se necessário, adicione ao style.css:
 
