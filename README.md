@@ -1,5 +1,5 @@
-## 📐 PROJETO DE MATEMÁTICA
-# MATEMÁTICA PARA A INCLUSÃO
+# 📐 PROJETO DE MATEMÁTICA
+ MATEMÁTICA PARA A INCLUSÃO
 Site educativo e interativo — Guia de instalação e personalização
 # 📂 COMO ABRIR O PROJETO
 Extraia o arquivo ZIP em uma pasta do seu computador.
